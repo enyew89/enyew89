@@ -63,10 +63,10 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 
 <!-- Double check these repo= names match your actual GitHub repos exactly (case-sensitive) -->
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME/secrets-app">
+<a href="https://github.com/enyew89/secrets-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=secrets-app&theme=tokyonight" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/phishing-quiz">
+<a href="https://github.com/enyew89/phishing-quiz">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=phishing-quiz&theme=tokyonight" />
 </a>
 </p>
@@ -90,10 +90,10 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"> <!-- replace with your LinkedIn handle -->
+<a href="https://linkedin.com/in/enyew89"> <!-- replace with your LinkedIn handle -->
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com"> <!-- replace with your real email -->
+<a href="mailto:enyewyirga89@example.com"> <!-- replace with your real email -->
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
 </a>
 </p>
