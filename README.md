@@ -37,8 +37,6 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 
 ---
 
-<!-- 🔑 Replace YOUR_USERNAME everywhere below with your real GitHub username (it appears several times) -->
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -60,13 +58,12 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 
 ## 🎯 Featured Projects
 
-<!-- Double check these repo= names match your actual GitHub repos exactly (case-sensitive) -->
 <p align="center">
 <a href="https://github.com/enyew89/Secrets---Starting-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=secrets-app&theme=tokyonight" />
+  <img src="https://vercel.app" />
 </a>
 <a href="https://github.com/enyew89/Phishing-Quiz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=phishing-quiz&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=Phishing-Quiz&theme=tokyonight" />
 </a>
 </p>
 
@@ -76,23 +73,23 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+    <img alt="github contribution snake" src="https://githubusercontent.com" />
   </picture>
 </p>
 
-> Fills in automatically once the `snake.yml` workflow (shared alongside this file) runs in your profile repo.
+> Fills in automatically once the `snake.yml` workflow runs in your profile repo.
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"> <!-- replace with your LinkedIn handle -->
+<a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com"> <!-- replace with your real email -->
+<a href="mailto:YOUR_EMAIL_HERE@example.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
 </a>
 <a href="https://t.me/Ifufailtoplanuplantofail">
