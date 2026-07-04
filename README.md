@@ -3,9 +3,11 @@
 =========================================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Enyew+👋;Full-Stack+Developer;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;React+Developer;Android+Developer+with+Kotlin;Always+Learning+Something+New" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Enyew+%F0%9F%91%8B;Information+Systems+Student;Backend+%26+Full-Stack+Developer;Node.js+%7C+Express+%7C+MongoDB;React+Developer;Android+Developer+with+Kotlin;Always+Learning+Something+New"
+    alt="Typing SVG"
+  />
 </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enyew89&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
