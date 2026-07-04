@@ -43,10 +43,10 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enyew89&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyew89&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=enyew89&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -64,10 +64,10 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 <!-- Double check these repo= names match your actual GitHub repos exactly (case-sensitive) -->
 <p align="center">
 <a href="https://github.com/YOUR_USERNAME/secrets-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=secrets-app&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=secrets-app&theme=tokyonight" />
 </a>
 <a href="https://github.com/YOUR_USERNAME/phishing-quiz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=phishing-quiz&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=phishing-quiz&theme=tokyonight" />
 </a>
 </p>
 
@@ -77,9 +77,9 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enyew89/enyew89/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enyew89/enyew89/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/enyew89/enyew89/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
