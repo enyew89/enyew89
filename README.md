@@ -63,12 +63,13 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 
 <!-- Double check these repo= names match your actual GitHub repos exactly (case-sensitive) -->
 <p align="center">
-<a href="https://github.com/enyew89/secrets-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=secrets-app&theme=tokyonight" />
-</a>
-<a href="https://github.com/enyew89/phishing-quiz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=phishing-quiz&theme=tokyonight" />
-</a>
+  <a href="https://github.com/enyew89/secrets-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=secrets-app&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/enyew89/phishing-quiz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=phishing-quiz&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -83,7 +84,6 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
   </picture>
 </p>
 
-> Fills in automatically once the `snake.yml` workflow (shared alongside this file) runs in your profile repo.
 
 ---
 
