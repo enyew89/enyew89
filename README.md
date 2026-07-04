@@ -1,4 +1,3 @@
-
 <!-- HEADER TYPING ANIMATION -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Enyew+👋;Full-Stack+Web+Developer;Backend+%7C+Node.js+%7C+MongoDB+%7C+React;Android+Developer+in+Kotlin;Always+Learning+New+Tech" />
@@ -43,10 +42,10 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enyew89&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyew89&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -54,7 +53,7 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enyew89&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -63,13 +62,12 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 
 <!-- Double check these repo= names match your actual GitHub repos exactly (case-sensitive) -->
 <p align="center">
-  <a href="https://github.com/enyew89/secrets-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=secrets-app&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/enyew89/phishing-quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=phishing-quiz&theme=tokyonight" />
-  </a>
+<a href="https://github.com/YOUR_USERNAME/secrets-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=secrets-app&theme=tokyonight" />
+</a>
+<a href="https://github.com/YOUR_USERNAME/phishing-quiz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=phishing-quiz&theme=tokyonight" />
+</a>
 </p>
 
 ---
@@ -78,23 +76,27 @@ Right now, I'm sharpening my skills in <b>Node.js, Express, MongoDB, React, Pass
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enyew89/enyew89/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enyew89/enyew89/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/enyew89/enyew89/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
+> Fills in automatically once the `snake.yml` workflow (shared alongside this file) runs in your profile repo.
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/enyew89"> <!-- replace with your LinkedIn handle -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"> <!-- replace with your LinkedIn handle -->
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:enyewyirga89@example.com"> <!-- replace with your real email -->
+<a href="mailto:YOUR_EMAIL@example.com"> <!-- replace with your real email -->
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://t.me/Ifufailtoplanuplantofail">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </p>
 
