@@ -89,11 +89,11 @@ Currently, I'm focused on becoming a well-rounded **Full-Stack Developer**, with
 
 <p align="center">
 
-<a href="https://github.com/enyew89/YOUR_REPOSITORY_1">
+<a href="https://github.com/enyew89/Phishing-Quiz">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/enyew89/YOUR_REPOSITORY_2">
+<a href="https://github.com/enyew89/Secrets---Starting-Code">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true"/>
 </a>
 
