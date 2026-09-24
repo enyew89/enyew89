@@ -1,5 +1,5 @@
 <!-- ===========================================================
-                       ENYEW'S GITHUB PROFILE
+                        ENYEW'S GITHUB PROFILE
 =========================================================== -->
 
 <h1 align="center">
@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[INSERT_YOUR_LINKEDIN_URL]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:[INSERT_YOUR_EMAIL]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -90,15 +90,13 @@ Currently, I'm focused on becoming a well-rounded **Full-Stack Developer**, with
 # 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/enyew89/Phishing-Quiz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=Phishing-Quiz&theme=tokyonight&hide_border=true"/>
+  </a>
 
-<a href="https://github.com/enyew89/Phishing-Quiz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/enyew89/Secrets---Starting-Code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true"/>
-</a>
-
+  <a href="https://github.com/enyew89/Secrets---Starting-Code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enyew89&repo=Secrets---Starting-Code&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
@@ -106,7 +104,7 @@ Currently, I'm focused on becoming a well-rounded **Full-Stack Developer**, with
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enyew89&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enyew89&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -114,7 +112,8 @@ Currently, I'm focused on becoming a well-rounded **Full-Stack Developer**, with
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/enyew89/enyew89/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <!-- Note: This image will appear broken until you set up the snake.yml GitHub Action in this repository -->
+  <img src="https://raw.githubusercontent.com/enyew89/enyew89/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -135,19 +134,17 @@ Currently, I'm focused on becoming a well-rounded **Full-Stack Developer**, with
 # 🤝 Connect With Me
 
 <p align="center">
+  <a href="[INSERT_YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:[INSERT_YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_WEBSITE">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+  <a href="[INSERT_YOUR_PORTFOLIO_WEBSITE]">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -159,5 +156,5 @@ Currently, I'm focused on becoming a well-rounded **Full-Stack Developer**, with
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=120&section=footer"/>
 </p>
